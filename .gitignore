@@ -1,0 +1,8 @@
+volume/
+tmp/
+.private/
+tests/unit/__pycache__/
+tests/__pycache__/
+tests/integration/__pycache__/
+.idea/
+.pytest_cache/
